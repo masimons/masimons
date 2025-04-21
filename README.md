@@ -1,4 +1,4 @@
-### 🚀 Open Source Contributions
+### Open Source Contributions
 
 - [devour-js/devour-client](https://github.com/devour-js/devour-client)  
   Contributed a bug fix to the JSON:API client.
